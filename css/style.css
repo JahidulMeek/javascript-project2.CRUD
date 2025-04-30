@@ -1,0 +1,13 @@
+input.warning::placeholder,
+textarea.warning::placeholder {
+  color: red;
+  /* background-color:green; */
+}
+
+.allpost{
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+
+

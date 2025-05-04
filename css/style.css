@@ -7,7 +7,29 @@ textarea.warning::placeholder {
 .allpost{
   flex-wrap: wrap;
   gap: 20px;
+  margin-top:50px;
+}
+.updateBtn{
+  display:none;
+}
+.container{
+  width:1000px;
+  height:300px;
+  background-color:aqua;
+  margin-top:20px;
+}
+.container .name{
+  background-color:white;
+  
 }
 
-
-
+.container .name::placeholder{
+  color:black
+}
+.Name, .Caption{
+  color:#2f44ff;
+}
+.card{
+  margin-top:30px;
+  background-color:#06f306;
+}
